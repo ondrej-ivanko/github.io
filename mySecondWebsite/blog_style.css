@@ -17,12 +17,11 @@ main {
 }
 
 .blog-name {
-	margin: 0%;
-	padding: 20px 10%;
+	margin: 0;
+	padding: 0 10%;
 	background-color: #33B3A2;
-	border-bottom: thin solid black;
-	
-	font-family: 'Varela Round', sans-serif;
+	border-bottom: thin solid black;	
+	font-family: 'Questrial', sans-serif;
 	font-size: 49px;
 }
 
